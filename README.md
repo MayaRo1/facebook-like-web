@@ -36,6 +36,23 @@ To run this project locally, ensure that **Node.js** and **npm** are installed o
    ```bash
    npm start
 
+ ## **Visualisations**
+
+### Homepage
+![image](https://github.com/user-attachments/assets/facc27aa-1a93-4d6a-a7fa-7d9091e4def9) 
+_A preview of the homepage._
+
+### Private account
+![image](https://github.com/user-attachments/assets/455df0c0-118c-465c-adcc-dc23e165fc4e)
+ 
+_A preview of a user's private account._
+
+### Edit Profile
+![image](https://github.com/user-attachments/assets/f4cc1911-d787-4858-9983-ca802a2f5125)
+
+_A preview of a user's personal page and edit popup._
+
+
 ## **Exploring the Entire System**
 This repository is part of a complete system that includes:
 
