@@ -1,0 +1,55 @@
+.navbar-nav .nav-item{
+    padding-right: 20px;
+    
+}
+.navbar-nav {
+    padding-left: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 90px;
+    padding-right: 20px;
+    justify-content: center;
+}
+.navbar-nav .nav-link{
+    width: 150px;
+}
+.navbar-brand{
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.bi.bi-facebook{
+    padding-left: 10px;
+    color: blue;
+    font-size: 2rem;
+}
+
+.navbar.navbar-expand-lg.bg-body-tertiary{
+    width: 100%;
+    z-index: 1000;
+    position: fixed;
+    top: 0px;
+}
+
+.profile-picture{
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+}
+.navbar {
+    background-color: var(--primary-color-light); /* Use primary color in light mode */
+  }
+.darkMode .container-fluid {
+    background-color: black;
+}
+.darkMode .nav-link.active{
+    color: white;
+}
+.darkMode .navbar-brand{
+    color: white;
+}

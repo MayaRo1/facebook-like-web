@@ -1,0 +1,12 @@
+.row.align-items-center{
+    padding-top: 50px;
+}
+
+.bi.bi-lock{
+    font-size: 5rem;
+}
+
+.blocked{
+    padding: 210px;
+    text-align: center;
+}

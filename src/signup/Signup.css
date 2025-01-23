@@ -1,0 +1,15 @@
+h1{
+    color:rgb(68, 81, 197);
+    font-size: 150px;
+}
+
+h3{
+    font-size: 40px
+}
+.form-control{
+    padding-block: 2px;
+    width: 75%;
+}
+.btn btn-primary{
+    width: 200px;
+}

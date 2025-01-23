@@ -1,0 +1,96 @@
+.card{
+    width: 700px;
+}
+.nav-link{
+    width: 222px;
+    border-radius: 0;
+    border: 40px;
+   
+
+}
+.post-item-buttons.nav-item {
+    margin-right: 3px; 
+}
+.post-item-buttons.nav-item .nav-link {
+    padding: 0 5px; 
+}
+.nav-pills .nav-link.active{
+    background-color: white;
+    color: black;
+}
+.card.mb-3 {
+    width: 100%; 
+    max-width: 700px; 
+    margin: auto; 
+}
+
+/* Fix the image size within the card */
+.card-img-top {
+    height: 520px; 
+    object-fit: cover; 
+    width: 100%; 
+}
+
+.nav-pills .nav-link{
+    border-radius: 0;
+    text-align: center;
+}
+
+/* .card.mb-3{
+    max-height: calc(100vh-100px);
+    overflow-y: auto;
+} */
+
+.nav-link.active.liked {
+    color:blue
+}
+
+.button_comment{
+    border: none;
+    background-color: transparent;
+
+}
+
+ .debtn{
+    margin: 5px;
+    width: 50px;
+    height: 40px;
+    background-color: white;
+    border: none;
+} 
+.bi.bi-pencil-square{
+    font-size: 1.5rem;
+}
+
+.bi.bi-trash3{
+    font-size: 1.5rem;
+}
+.darkMode .post-item{
+    background-color: rgb(106, 105, 105);
+
+}
+.lightMode{
+    background-color: white;
+}
+  
+  .darkMode .card.mb-3{
+    background-color: rgb(53, 52, 52);
+    color: white;
+  }
+  .darkMode .nav.nav-pills {
+    background-color: rgb(36, 35, 35);
+    color: white;
+  }
+
+  .profile-pic {
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+  }
+
+  .profile-pic-and-title {
+    display: flex; 
+    align-items: center; 
+    gap: 10px;
+}
+  

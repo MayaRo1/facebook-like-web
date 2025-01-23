@@ -1,0 +1,56 @@
+.container text-center{
+    margin-left: 0;
+}
+.container-fluid{
+    padding-left: 0;
+}
+.row{
+    margin-left: 0;
+    margin-top: 80px;
+}
+.custom-margin-left{
+    margin-left: 0;
+}
+
+.col-sm-3{
+    float: left;
+    border: none;
+    padding: 0;
+    margin-left: 0;
+}
+.col-sm-9{
+    position: relative;
+    padding-left: 400px;
+}
+
+.fixed-column{
+    position: fixed;
+    left: 0;
+    z-index: 1000;
+}
+
+.addBtn{
+    margin: 10px;
+    width: 120px;
+    height: 40px;
+    background-color: white;
+    border: none;
+}
+
+.bi.bi-plus-lg{
+    font-size: 2rem;
+}
+.lightMode{
+    background-color: white;
+}
+.darkMode{
+    background-color: black;
+}
+
+.darkMode .col-sm-3{
+    background-color: black;
+}
+.darkMode .addBtn{
+    color: white;
+    background-color: black;
+}
