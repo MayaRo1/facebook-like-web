@@ -1,7 +1,49 @@
-Our workflow: At first we opened a JIRA project and divided the work between us. We decided as recommended in the project instructions that we will work both on the Android and web versions so we are knowledgeable in both. While working on the project Ahiya joined our group and divided the work with us.
+# **Facebook-Like React Website**
 
-In order to run the web version write npm start in the command line.
+Welcome to the **Facebook React Website**! 🎉
 
-Foobar will open on the login page and you will have to press the create new account button and fill in valid details. Then you will be transferred Back to the login page where you can enter the details you signed up with and see the feed page. In the feed page you will see many posts and you can like, comment and share them. In addition to adding new comments you can also delete comments and edit them. Furthermore, you can add new posts of your own and edit and delete existing posts. There is also a possibility to move between light and dark modes and log out back to the login page.
+This project is a React-powered frontend designed to deliver an intuitive and interactive interface for a social media platform inspired by Facebook.
 
-Enjoy
+In addition to this frontend, there are separate repositories in this GitHub for:
+
+  * The Server: Handles the backend logic and APIs.
+  * The Android Application: A mobile app providing similar functionality for Android devices.
+
+## **Development Journey**
+
+- **Foundation:**  
+  We started by crafting static webpage designs using **HTML** and **CSS** to establish a strong visual and structural foundation.
+
+- **Transition to React:**  
+  Building on the foundation, we migrated to **React**, utilizing its robust capabilities to create a **dynamic and responsive user experience**. By modularizing the interface into reusable components and efficiently managing states, we achieved smooth and seamless rendering.
+
+- **Optimization:**  
+  After thorough testing, we focused on refining the design and improving the user experience. The result is a polished, professional, and enjoyable interface for users.
+
+---
+
+## **Running the Program**
+
+To run this project locally, ensure that **Node.js** and **npm** are installed on your machine. Then follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MayaRo1/facebook-like-web.git
+2. Install the dependencies:
+   ```bash
+   npm install
+3. Start the development server:
+   ```bash
+   npm start
+
+## **Exploring the Entire System**
+This repository is part of a complete system that includes:
+
+* The Backend Server Repository
+* The Android Application Repository
+
+Visit these repositories to explore the backend and mobile components of the project.
+
+---
+
+## **Enjoy!**
