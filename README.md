@@ -6,7 +6,7 @@ This project is a React-powered frontend designed to deliver an intuitive and in
 
 This project is part of a larger system that includes:
 - [Android Frontend Repository](https://github.com/MayaRosen/facebook-like-web)
-- [Backend Server Repository](https://github.com/your-username/facebook-like-server)
+- [Backend Server Repository](https://github.com/MayaRosen/facebook-like-server)
 
 Together, these repositories create a fully functional system for web and mobile platforms.
 
