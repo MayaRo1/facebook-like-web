@@ -5,7 +5,7 @@ Welcome to the **Facebook React Website**! 🎉
 This project is a React-powered frontend designed to deliver an intuitive and interactive interface for a social media platform inspired by Facebook.
 
 This project is part of a larger system that includes:
-- [Android Frontend Repository](https://github.com/MayaRosen/facebook-like-web)
+- [Android Frontend Repository](https://github.com/MayaRosen/facebook-like-android)
 - [Backend Server Repository](https://github.com/MayaRosen/facebook-like-server)
 
 Together, these repositories create a fully functional system for web and mobile platforms.
